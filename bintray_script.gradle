@@ -1,3 +1,6 @@
+group = publishedGroupId
+version = libraryVersion
+
 install {
     repositories.mavenInstaller {
         pom.project {
